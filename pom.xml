@@ -64,7 +64,7 @@
                 <artifactId>maven-war-plugin</artifactId>
                 <version>3.4.0</version>
                 <configuration>
-                    <webappDirectory>false</webappDirectory>
+                    <webappDirectory>D:\Проекты\MyWebApp\src\main\webapp</webappDirectory>
                 </configuration>
             </plugin>
             <plugin>
